@@ -1,0 +1,9 @@
+CKD-Classification-Project/
+│
+├── CKD Using Classifications Algo.ipynb   ← Your full notebook with results
+├── model.pkl                              ← Your saved final model
+├── README.md                              ← Summary for GitHub
+├── requirements.txt                       ← Needed libraries
+└── output/
+    ├── classification_report_random_forest.txt
+    └── model_comparison_table.csv
